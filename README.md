@@ -1,3 +1,3 @@
-# PyData
-Entails all files and assignments i accumulated during a PyData Data Science Course using Python.
-Tools used : Google colab, Jupyter notebook.
+# PyDataGH
+Entails all projects and assignments I did during a Data Science Course organized by Pydata GH using python programming language.
+Tools used : Jupyter notebook.
